@@ -1,0 +1,1 @@
+SELECT student_teacher.student_id, student_teacher.teacher_id FROM student_teacher WHERE teacher_name = 'Ivanov'  

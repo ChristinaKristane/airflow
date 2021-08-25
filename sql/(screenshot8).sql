@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT student_teacher.student_id) FROM student_teacher WHERE teacher_id= 11    

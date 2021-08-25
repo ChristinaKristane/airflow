@@ -1,0 +1,1 @@
+SELECT COUNT(*) as count FROM student WHERE teschers='Ivanov' 
