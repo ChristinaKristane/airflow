@@ -1,0 +1,1 @@
+SELECT COUNT(DISTINCT student.student_id) FROM student WHERE teschers= 'Ivanov'   
